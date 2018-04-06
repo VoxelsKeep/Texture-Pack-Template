@@ -1,0 +1,72 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 20
+name = singleplayer
+pitch = -8.89
+position = (-1780.55,-1135,23.89)
+version = 1
+yaw = 130.17
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:torch
+Item default:meselamp
+Item default:silver_sand
+Item default:stone
+Item default:lava_source
+Item default:stonebrick
+Item default:clay
+Empty
+Item default:iron_lump
+Item default:coal_lump
+Item default:flint
+Item default:mese
+Item default:cobble 25
+Item default:fence_pine_wood
+Item default:coalblock
+Item default:clay_lump 4
+Item default:mese_crystal
+Empty
+Item default:gold_lump
+Empty
+Empty
+Item default:diamondblock
+Item tnt:tnt
+Item default:gravel
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,72 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 20
+name = singleplayer
+pitch = -22.62
+position = (-18406.4,75,5143.86)
+version = 1
+yaw = 41.71
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:wood
+Item default:dirt
+Item default:cobble
+Item default:dirt_with_grass
+Item default:brick
+Item flowers:rose
+Item wool:white
+Item default:torch
+Item default:pine_needles
+Item default:fence_pine_wood
+Empty
+Item default:leaves
+Item bones:bones
+Empty
+Item farming:straw
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

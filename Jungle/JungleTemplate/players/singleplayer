@@ -1,0 +1,72 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 20
+name = singleplayer
+pitch = -7.99
+position = (-2653.49,15,8198)
+version = 1
+yaw = 285.34
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:junglesapling
+Item default:junglegrass
+Item wool:white
+Item default:coral_brown
+Item default:coral_orange
+Item flowers:waterlily
+Item default:mossycobble
+Item vessels:drinking_glass
+Item default:fence_junglewood
+Item default:dirt
+Item default:jungletree
+Item default:fern_1
+Item default:coral_skeleton
+Empty
+Item default:cobble
+Item xpanes:bar_flat
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
