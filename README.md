@@ -1,6 +1,7 @@
 # Texture-Pack-Template
 A Template for voxel game texture packs built to keep things consistent and descriptive in the community
 
+![Example](Example.png)
 
 Uses [minetest](https://github.com/minetest/minetest) worlds and fairly generic blocks for multi-game compatibility.
 
