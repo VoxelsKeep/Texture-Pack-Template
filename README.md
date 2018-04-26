@@ -25,3 +25,5 @@ Freeze time before use, they have the sun in the right spot.
 There is coral in the jungle world that will periodically die, and will need to be replaced.(Just use the paste_pos to get back)
 
 The desert world has a lit furnace that will periodically need to be relit with coal.
+
+The grassland world should have the sun visible, so probably wait till the clouds clear.
