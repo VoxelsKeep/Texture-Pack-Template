@@ -18,3 +18,10 @@ Paste the screenshots into the Template image and scale them down to 615X498, th
 
 ## Step four:
 Export the final image as a new file for your use.
+
+### Important Notes
+Freeze time before use, they have the sun in the right spot.
+
+There is coral in the jungle world that will periodically die, and will need to be replaced.(Just use the paste_pos to get back)
+
+The desert world has a lit furnace that will periodically need to be relit with coal.
