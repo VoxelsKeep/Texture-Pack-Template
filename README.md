@@ -5,6 +5,12 @@ A Template for voxel game texture packs built to keep things consistent and desc
 
 Uses [minetest](https://github.com/minetest/minetest) worlds and fairly generic blocks for multi-game compatibility.
 
+**NOTE**: I encourage you to also include this link for your repository giving readers a critical analysis on the completion of your texture pack:
+
+```url
+https://minetest-checker.herokuapp.com/game/<OWNER>/<REPO>
+```
+[Minetest-Texture-Pack-Completion-Checker By](https://github.com/dolanmiu/Minetest-Texture-Pack-Completion-Checker): [**@dolanmiu**](https://github.com/dolanmiu) and [**@tacotexmex**](https://github.com/tacotexmex)
 
 # How to Use
 ## Step one:
