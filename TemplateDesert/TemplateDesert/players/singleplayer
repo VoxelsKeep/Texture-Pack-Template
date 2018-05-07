@@ -12,22 +12,22 @@ yaw = 325.8
 PlayerArgsEnd
 List main 32
 Width 0
-Item default:desert_stonebrick
-Item default:desert_cobble
-Item default:acacia_wood 5
-Item default:bookshelf
-Item default:cactus
-Item default:dry_shrub
-Item default:dirt_with_dry_grass
-Item default:furnace
-Item default:acacia_wood
-Item default:obsidian
-Item default:obsidian_block
-Item default:chest
-Item default:glass 12
-Item default:dirt
-Item default:glass
-Item default:desert_stone
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
 Empty
 Empty
 Empty
